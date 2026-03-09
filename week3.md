@@ -13,3 +13,7 @@
 ### P01-13
 
 <img width="350" height="748" alt="image" src="https://github.com/user-attachments/assets/7daf75db-13d9-4f48-ae8e-9ee2bf7222da" />
+
+### P14-20
+
+<img width="834" height="560" alt="image" src="https://github.com/user-attachments/assets/296a9e5f-9900-4447-80ce-671271e2cbf7" />
