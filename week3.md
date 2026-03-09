@@ -8,7 +8,7 @@
 
 <img width="874" height="526" alt="image" src="https://github.com/user-attachments/assets/370d6749-2919-492f-855f-d7c0da79f14e" />
 
-#P.3
+# P.3
 
 ### P01-13
 
