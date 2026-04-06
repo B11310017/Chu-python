@@ -1,5 +1,7 @@
 # week6
 
+## 單元05. 零基礎Python快速入門與實作 - List, Tuple, Dictionary, Set (Week05-06)
+
 ## 課堂實作 (Practice Labs)
 
 ### P06-01 Create Dict
