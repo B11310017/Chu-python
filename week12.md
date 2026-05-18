@@ -1,7 +1,7 @@
 # week12
 ## Phase 1: 資料概觀 (Data Overview)
 ### Lab 19-01: Head & Tail
-<img width="823" height="742" alt="image" src="https://github.com/user-attachments/assets/1af72736-b9b1-4627-a6fe-cda066bee94c" />
+<img width="859" height="758" alt="image" src="https://github.com/user-attachments/assets/ddf6fe58-0c49-4f40-bc7b-58291bf93f05" />
 
 ### Lab 19-02: Info & Types
 <img width="820" height="354" alt="image" src="https://github.com/user-attachments/assets/ea57acf9-8d73-45c9-b8a1-e53a21d66c93" />
