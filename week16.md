@@ -2,7 +2,7 @@
 
 ## 實作題庫: 股市分析 (Stock Analysis Labs)
 
-### Environment Setup (環境建置
+### Environment Setup (環境建置)
 <img width="808" height="449" alt="image" src="https://github.com/user-attachments/assets/580fbdda-4813-4c7a-8c6d-949048951829" />
 
 ## Phase 1: 單一公司深度分析 (TSMC Case Study)
